@@ -4,7 +4,7 @@ I'm a passionate Full-Stack Developer eager to build scalable web applications a
 
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramkumar) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-ramkumar/) 
 
 # 💻Tech Stack
  <h3 align="left">Languages and Tools:</h3>
