@@ -2,7 +2,6 @@
 I'm a passionate Full-Stack Developer eager to build scalable web applications and learn from real-world challenges. Skilled in HTML, CSS, JavaScript, React, Node.js, and MongoDB. Open to opportunities where I can contribute, grow, and make a meaningful impact through code.
 
 
-
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-ramkumar/) 
 
@@ -20,17 +19,4 @@ I'm a passionate Full-Stack Developer eager to build scalable web applications a
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a></p>
 
-
-
-
-
  
- 
- 
-
- 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=ramstacked&icon=0&color=0)](https://visitcount.itsvg.in)
