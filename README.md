@@ -41,23 +41,6 @@ Hi 👋 I'm <b>Ram Kumar</b><br><br>
   <img height="60" src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 </p>
 
----
-
-<!-- 🐍 SNAKE ANIMATION -->
-<h2>🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
-
----
-
-<!-- 🧩 3D GRAPH -->
-<h2>🧩 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=github_dark" width="100%"/>
-</p>
 
 ---
 
