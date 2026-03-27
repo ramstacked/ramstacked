@@ -1,87 +1,87 @@
-<!-- 🌌 HEADER / BANNER -->
-<h1 align="center">🔐 Network Security Lab</h1>
+<!-- 🔥 ANIMATED BANNER -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</p>
+
+<h1 align="center">👾 NETWORK SECURITY LAB 👾</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cyber+Security+Student;Network+Security+Explorer;Future+Ethical+Hacker;Learning+Never+Stops..." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FF00&center=true&vCenter=true&lines=Cyber+Security+Student;Ethical+Hacker+In+Progress;Network+Security+Explorer;Keep+Learning+🚀" />
 </p>
 
 ---
 
-<!-- 🧑‍💻 ABOUT ME -->
+<!-- 👨‍💻 ABOUT ME -->
 <h2>👨‍💻 About Me</h2>
 
-<p>
-Hey 👋 I'm <b>Ram Kumar</b><br><br>
+<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-🔐 Passionate about <b>Cyber Security</b><br>
-🌐 Focused on <b>Network Security & Ethical Hacking</b><br>
-💻 Learning <b>Python, Linux, Security Tools</b><br>
-🚀 Goal: Become a <b>Professional Security Analyst</b>
+<p>
+Hi 👋 I'm <b>Ram Kumar</b><br><br>
+
+🔐 Cyber Security Enthusiast<br>
+🌐 Focus: Network Security<br>
+💻 Learning: Python, Linux, Ethical Hacking<br>
+🚀 Goal: Security Analyst / Ethical Hacker<br>
 </p>
 
 ---
 
-<!-- 🛠️ TOOLS -->
+<!-- 🛠️ BIG LOGOS -->
 <h2>⚡ Tools & Technologies</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash" /><br><br>
+  <img src="https://skillicons.dev/icons?i=linux,kali,python,bash&perline=4" height="80"/>
+</p>
 
-  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Wireshark-101820?style=for-the-badge&logo=wireshark&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00FF00" />
+<p align="center">
+  <img height="60" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img height="60" src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img height="60" src="https://img.shields.io/badge/Metasploit-black?style=for-the-badge&logo=metasploit&logoColor=green"/>
+  <img height="60" src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 </p>
 
 ---
 
-<!-- 📊 GITHUB STATS -->
+<!-- 🐍 SNAKE ANIMATION -->
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
+---
+
+<!-- 🧩 3D GRAPH -->
+<h2>🧩 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=github_dark" width="100%"/>
+</p>
+
+---
+
+<!-- 📊 STATS -->
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=chartreuse-dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=chartreuse-dark" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=chartreuse-dark"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=chartreuse-dark"/>
 </p>
 
 ---
 
-<!-- 🧠 SKILLS -->
-<h2>🧠 Skills</h2>
-
-<ul>
-  <li>🔍 Network Scanning (Nmap)</li>
-  <li>📡 Packet Analysis (Wireshark)</li>
-  <li>⚠️ Vulnerability Testing</li>
-  <li>🛡️ Basic Penetration Testing</li>
-</ul>
-
----
-
-<!-- 🎯 PROJECT SECTION -->
+<!-- 🚀 PROJECTS -->
 <h2>🚀 Project Modules</h2>
 
-<table>
-<tr>
-<td>🔎 <b>Network Scanning</b></td>
-<td>Identify open ports & services</td>
-</tr>
+<img align="right" width="250" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
-<tr>
-<td>📡 <b>Packet Sniffing</b></td>
-<td>Analyze live traffic</td>
-</tr>
-
-<tr>
-<td>⚠️ <b>Vulnerability Analysis</b></td>
-<td>Detect system weaknesses</td>
-</tr>
-
-<tr>
-<td>💣 <b>Penetration Testing</b></td>
-<td>Simulate cyber attacks</td>
-</tr>
-</table>
+<ul>
+  <li>🔎 Network Scanning (Nmap)</li>
+  <li>📡 Packet Analysis (Wireshark)</li>
+  <li>⚠️ Vulnerability Testing</li>
+  <li>💣 Penetration Testing (Metasploit)</li>
+</ul>
 
 ---
 
@@ -90,11 +90,11 @@ Hey 👋 I'm <b>Ram Kumar</b><br><br>
 
 <p align="center">
   <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00FF00"/>
+    <img height="60" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00"/>
   </a>
   
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=00FF00"/>
+    <img height="60" src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF00"/>
   </a>
 </p>
 
@@ -102,9 +102,7 @@ Hey 👋 I'm <b>Ram Kumar</b><br><br>
 
 ---
 
-<!-- 🟢 FOOTER -->
+<!-- 🧠 FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=120&section=footer"/>
 </p>
-
-
