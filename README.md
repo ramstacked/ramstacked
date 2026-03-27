@@ -99,19 +99,6 @@ Hey 👋 I'm <b>Ram Kumar</b><br><br>
 </p>
 
 ---
-<h2>🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<!-- ⚠️ DISCLAIMER -->
-<h2>⚠️ Disclaimer</h2>
-
-<p>
-This project is for <b>educational purposes only</b>.<br>
-Do not use these tools on unauthorized systems.
-</p>
 
 ---
 
@@ -119,9 +106,5 @@ Do not use these tools on unauthorized systems.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=100&section=footer"/>
 </p>
-<h2>🧩 3D Contribution Graph</h2>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=github_dark" />
-</p>
 
