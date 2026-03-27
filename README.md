@@ -41,23 +41,14 @@ Hi 👋 I'm <b>Ram Kumar</b><br><br>
   <img height="60" src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 </p>
 
-
----
-
-<!-- 📊 STATS -->
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=chartreuse-dark"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=chartreuse-dark"/>
-</p>
+<img align="right" width="250" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
 ---
 
 <!-- 🚀 PROJECTS -->
 <h2>🚀 Project Modules</h2>
 
-<img align="right" width="250" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
+<
 
 <ul>
   <li>🔎 Network Scanning (Nmap)</li>
