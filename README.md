@@ -10,16 +10,33 @@
 
 <!-- 👨‍💻 ABOUT ME -->
 <h2>👨‍💻 About Me</h2>
+```bash
+ramstacked@kali:~# ./fetch_profile_metadata.sh --user ramkumar
+
+
+{
+  "operator": "Ramkumar",
+  "handle": "ramstacked",
+  "clearance": "Tier-3 Cyber Security Architecture",
+  "specialization": [
+    "Red Teaming / Penetration Testing",
+    "Blue Teaming / Incident Response & SOC Operations"
+  ],
+  "kernel_version": "Linux 6.x-hardened",
+  "current_status": "Analyzing payloads // Patching zero-days"
+}
+ramstacked@kali:~# nmap -sC -sV -p- -T4 --open --min-rate=5000 10.10.10.24
 
 <img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 <p>
 Hi 👋 I'm <b>Ram Kumar</b><br><br>
-
-🔐 Cyber Security Enthusiast<br>
-🌐 Focus: Pentesting <br>
-💻 Learning: Python, Linux, Ethical Hacking<br>
-🚀 Goal: Security Analyst /  pentesting <br>
+<!-- VISUAL HUD ANIMATIONS -->
+<p align="center">
+  <img src="https://media.giphy.com/media/VwwtOFbkvXf3Yg8Eov/giphy.gif" width="45%" alt="Cyber Grid Animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zid3R5bHNoamMxZ3dkOHp3NXN6M3I4M3NlamI2M3FqZHZtcHd1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RsPTE/o0bcO5C70wws0/giphy.gif" width="45%" alt="Matrix Code Falling">
+</p>
+ 
 </p>
 
 ---
@@ -82,41 +99,9 @@ Hi 👋 I'm <b>Ram Kumar</b><br><br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=120&section=footer"/>
 </p>
-<h1>---------------------------------------------------------------------------------------------------------------------------</h1>
-
-<!-- HEADER GLITCH BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=RAMSTACKED%20::%20SEC_OPS_TERMINAL&fontSize=42&fontAlignY=40&animation=glitch&fontColor=00FF66" width="100%" />
-</p>
-
-<!-- MATRIX TYPEWRITER EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&duration=3000&pause=500&color=00FF66&center=true&vCenter=true&width=800&lines=%5B%2B%5D+ESTABLISHING+SECURE+SSH+TUNNEL...%3B%5B%2B%5D+DECRYPTING+OPERATIVE+PROFILE...%3B%5B%2B%5D+IDENTITY+CONFIRMED%3A+RAMKUMAR%3B%5B!%5D+CAUTION%3A+YOU+ARE+ENTERING+A+MONITORED+ZONE%3B%3E+STATUS%3A+ACTIVE_THREAT_HUNTING..." alt="Hacker Typing SVG" />
-</p>
-
-<!-- VISUAL HUD ANIMATIONS -->
-<p align="center">
-  <img src="https://media.giphy.com/media/VwwtOFbkvXf3Yg8Eov/giphy.gif" width="45%" alt="Cyber Grid Animation">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zid3R5bHNoamMxZ3dkOHp3NXN6M3I4M3NlamI2M3FqZHZtcHd1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RsPTE/o0bcO5C70wws0/giphy.gif" width="45%" alt="Matrix Code Falling">
-</p>
-
----
-
-## 🗃️ STACK_RECON // CORE METRICS
-
-```bash
-ramstacked@kali:~# ./fetch_profile_metadata.sh --user ramkumar
 
 
-{
-  "operator": "Ramkumar",
-  "handle": "ramstacked",
-  "clearance": "Tier-3 Cyber Security Architecture",
-  "specialization": [
-    "Red Teaming / Penetration Testing",
-    "Blue Teaming / Incident Response & SOC Operations"
-  ],
-  "kernel_version": "Linux 6.x-hardened",
-  "current_status": "Analyzing payloads // Patching zero-days"
-}
-ramstacked@kali:~# nmap -sC -sV -p- -T4 --open --min-rate=5000 10.10.10.24
+
+
+ 
+
