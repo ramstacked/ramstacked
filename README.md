@@ -2,9 +2,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </p>
-
-<h1 align="center">👾 NETWORK SECURITY LAB 👾</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FF00&center=true&vCenter=true&lines=Cyber+Security+Student;Ethical+Hacker+In+Progress;Network+Security+Explorer;Keep+Learning+🚀" />
 </p>
@@ -20,9 +17,9 @@
 Hi 👋 I'm <b>Ram Kumar</b><br><br>
 
 🔐 Cyber Security Enthusiast<br>
-🌐 Focus: Network Security<br>
+🌐 Focus: Pentesting <br>
 💻 Learning: Python, Linux, Ethical Hacking<br>
-🚀 Goal: Security Analyst / Ethical Hacker<br>
+🚀 Goal: Security Analyst /  pentesting <br>
 </p>
 
 ---
@@ -35,7 +32,7 @@ Hi 👋 I'm <b>Ram Kumar</b><br><br>
 </p>
 
 <p align="center">
-  <img height="60" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img height="80" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img height="60" src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img height="60" src="https://img.shields.io/badge/Metasploit-black?style=for-the-badge&logo=metasploit&logoColor=green"/>
   <img height="60" src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white"/>
